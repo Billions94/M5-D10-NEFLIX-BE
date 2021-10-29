@@ -1,15 +1,1 @@
-[{
-    "id": "pluwdklokvc9zvgo",
-    "Title": "The Lord of the Rings: The Fellowship of the Ring",
-    "Year": "2001",
-    "Type": "movie",
-    "Poster": "https://res.cloudinary.com/the-tribe/image/upload/v1635507853/alex-blogs/mjcylrl55hz0ws2bxfzw.jpg",
-    "reviews": [{
-        "id": "pluwdklokvca6ccs",
-        "comment": "Visionary human-resource conglomeration",
-        "rate": "5",
-        "elementId": "pluwdklokvc9zvgo",
-        "createdAt": "2021-10-29T11:17:00.556Z"
-    }],
-    "createdAt": "2021-10-29T11:11:58.728Z"
-}]
+[{"id":"pluwdklokvc9zvgo","Title":"The Lord of the Rings: The Fellowship of the Ring","Year":"2001","Type":"movie","Poster":"https://res.cloudinary.com/the-tribe/image/upload/v1635507853/alex-blogs/mjcylrl55hz0ws2bxfzw.jpg","reviews":[{"id":"pluwdklokvca6ccs","comment":"Visionary human-resource conglomeration","rate":"5","elementId":"pluwdklokvc9zvgo","createdAt":"2021-10-29T11:17:00.556Z"}],"createdAt":"2021-10-29T11:11:58.728Z"}]
