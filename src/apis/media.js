@@ -1,5 +1,7 @@
 //   **********************        CODE BY EJIROGHENE     ***********************     //
 
+//BE DEPLOYED
+
 import express from "express";
 import * as db from  "../lib/db.js"
 import uniqid from "uniqid"
